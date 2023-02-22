@@ -10,6 +10,9 @@ public class oddeven {
 		System.out.println("a is even");}
 		else{
 			System.out.println("a is odd");
+
+			// this is example for git test code
+			
 		}
 	    }
 		
